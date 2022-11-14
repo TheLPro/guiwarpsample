@@ -1,0 +1,8 @@
+name: Sampleguiwarp
+version: '${project.version}'
+main: me.thelpro.Sampleguiwarp
+api-version: 1.19
+authors: [ TheLPro ]
+commands:
+  warp:
+    description: Warp
